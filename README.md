@@ -1,50 +1,20 @@
-# React + TypeScript + Vite
+# 인프런의 <실무에 바로 적용하는 프런트엔드 테스트 [1부](https://www.inflearn.com/course/%EC%8B%A4%EB%AC%B4%EC%A0%81%EC%9A%A9-%ED%94%84%EB%9F%B0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8-1%EB%B6%80/dashboard), [2부](https://www.inflearn.com/course/%EC%8B%A4%EB%AC%B4%EC%A0%81%EC%9A%A9-%ED%94%84%EB%9F%B0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8-2%EB%B6%80)> 스터디
+---
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 스터디 일정
 
-Currently, two official plugins are available:
+| 날짜 | 강의 |
+| ---- | ---- |
+| 01/24(금) | 1부 5~8 강 |
+| 01/25(토) | 1부 9~14 강 |
+| 01/26(일) | 1부 15~20 강 |
+| 01/27(월) | 1부 21~25 강 |
+| 01/28(화) | 2부 3~11 강 |
+| 01/29(수) | 2부 12~15 강 |
+| 01/30(금) | 2부 16~23 강 |
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 멤버
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
-
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
-
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
-
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
+| <img src="https://github.com/wonjung-jang.png" width="150px" /> | <img src="https://github.com/Geunbaek.png" width="150px" /> | <img src="https://github.com/effozen.png" width="150px" /> | <img src="https://github.com/SU-VIN.png" width="150px" /> |
+|---------|------|------|--------|
+| [@wonjung-jang](https://github.com/wonjung-jang) | [@Geunbaek](https://github.com/Geunbaek) | [@effozen](https://github.com/effozen) | [@SU-VIN](https://github.com/SU-VIN) |
