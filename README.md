@@ -1,4 +1,4 @@
-# 인프런의 [<실무에 바로 적용하는 프런트엔드 테스트>](https://www.inflearn.com/users/1007589/@hanjungv) 스터디
+# 인프런의 <실무에 바로 적용하는 프런트엔드 테스트 [1부](https://www.inflearn.com/course/%EC%8B%A4%EB%AC%B4%EC%A0%81%EC%9A%A9-%ED%94%84%EB%9F%B0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8-1%EB%B6%80/dashboard), [2부](https://www.inflearn.com/course/%EC%8B%A4%EB%AC%B4%EC%A0%81%EC%9A%A9-%ED%94%84%EB%9F%B0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8-2%EB%B6%80)> 스터디
 ---
 
 ## 스터디 일정
